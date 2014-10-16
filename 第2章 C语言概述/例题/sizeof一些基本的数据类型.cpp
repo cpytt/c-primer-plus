@@ -17,8 +17,6 @@ int main(void)
 	printf("double:%d\n", sizeof(double));                       //double
 	printf("long double:%d\n", sizeof(long double));             //long double
 
-	getchar();
-
 	return 0;
 }
 
